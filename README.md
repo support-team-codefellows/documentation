@@ -49,7 +49,7 @@ We are using Postgres SQL database
 
 * Email - type: string
 * password - type: string
-* * role - type: string
+* role - type: string
 * token - type: virtual
 * capabilities - type: virtual >> user, employee, admin
 * username - type: string
